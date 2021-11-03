@@ -1,6 +1,6 @@
 # Voice-Controlled-LED-s
-<li>A voice controlled LED models was created using Arduino codes which can take command from the developer to go on and off and to make different patterns using light-emitting diode.</li>
-<li>It was a project under Silicon robotics club.</li>
+<li>A voice controlled LED models were created using Arduino codes which can take command from the developer to go on and off and also make different patterns using light-emitting diode.</li>
+<li>It was a project under Silicon Robotics Club.</li>
 <br>
   <br>
 
